@@ -256,7 +256,7 @@ This dashboard helps stakeholders:
 
 # 👨‍💻 Author
 
-**Mallareddygari Gayathri**
+**Chowdri Furkhan**
 
 Aspiring Data Analyst | AI/ML Engineer | Power BI Developer
 
