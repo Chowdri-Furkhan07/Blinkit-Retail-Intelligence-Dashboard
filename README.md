@@ -198,7 +198,7 @@ Blinkit-Sales-Analysis/
 
 # 📷 Dashboard Preview
 
-![alt text](<img width="1042" height="580" alt="Dashboard_Blinkit" src="https://github.com/user-attachments/assets/3499517d-8834-48b0-adc7-058fb71d2a11" />
+![alt text](![Uploading Dashboard_Preview.png…]()
 )
 
 ---
