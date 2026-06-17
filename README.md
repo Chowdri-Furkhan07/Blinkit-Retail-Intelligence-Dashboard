@@ -198,7 +198,7 @@ Blinkit-Sales-Analysis/
 
 # 📷 Dashboard Preview
 
-![alt text](Dashboard_Preview.png)
+![alt text]()
 
 ---
 
