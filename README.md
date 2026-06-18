@@ -191,14 +191,14 @@ Blinkit-Sales-Analysis/
 │
 ├── Blinkit PowerBI Dashboard.pbix
 ├── README.md
-└── Dashboard_Preview.png
+└── Dashboard Preview.png
 ```
 
 ---
 
 # 📷 Dashboard Preview
 
-![alt text](Dashboard_Preview.png)
+![alt text](Dashboard Preview.png)
 
 ---
 
