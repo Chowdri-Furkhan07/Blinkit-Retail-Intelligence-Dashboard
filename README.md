@@ -199,7 +199,7 @@ Blinkit-Sales-Analysis/
 
 # 📷 Dashboard Preview
 
-![alt text](Dashboard Preview.png).
+<img width="1052" height="592" alt="Screenshot 2026-06-18 162342" src="https://github.com/user-attachments/assets/c44fa7ac-11e4-439f-8ba2-f0fab6dac5ac" />
 
 ---
 
