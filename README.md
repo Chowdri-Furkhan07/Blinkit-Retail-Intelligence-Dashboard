@@ -189,7 +189,8 @@ Provide a complete comparison of all KPIs across outlet types.
 ```text
 Blinkit-Sales-Analysis/
 │
-├── Blinkit PowerBI Dashboard.pbix
+├── BlinkIT Grocery Data.xlsx
+├── BlinkIT PowerBI Dashboard.pbix
 ├── README.md
 └── Dashboard Preview.png
 ```
@@ -198,7 +199,7 @@ Blinkit-Sales-Analysis/
 
 # 📷 Dashboard Preview
 
-![alt text](Dashboard Preview.png)
+![alt text](Dashboard Preview.png).
 
 ---
 
