@@ -259,7 +259,7 @@ This dashboard helps stakeholders:
 
 **Chowdri Furkhan**
 
-Aspiring Data Analyst | AI/ML Engineer | Power BI Developer
+Data Analyst | AI/ML Engineer | Power BI Developer
 
 📍 Bangalore, India
 
