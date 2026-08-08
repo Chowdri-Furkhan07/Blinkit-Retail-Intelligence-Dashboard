@@ -33,7 +33,7 @@ The workflow follows a real-world BI pipeline: **raw data → SQL cleaning & agg
 | `Blinkit_analysis.sql` | All MySQL queries — data standardization (fat content categories) and aggregate analysis (total sales, average sales, ratings, sales by outlet/item type, etc.). |
 | `BlinkIT_Grocery_Data.xlsx` | **Cleaned dataset used as the Power BI data source.** This is the Excel version of the cleaned data, connected directly to the `.pbix` file for the dashboard's data model. |
 | `BlinkIT_PowerBI_Dashboard.pbix` | The full interactive Power BI dashboard file — open in Power BI Desktop to explore. |
-| `Screenshot_2026-08-08_233918.png` | Static preview image of the dashboard. |
+| `Dashboard_Preview.png` | Static preview image of the dashboard. |
 
 > ⚠️ **Note on file roles:** The `.csv` file was used exclusively for the **MySQL** analysis stage (queries in `Blinkit_analysis.sql`). The `.xlsx` file is the dataset actually loaded into and used by the **Power BI** dashboard (`.pbix`). Both files contain the same underlying data, cleaned for their respective tools.
 
