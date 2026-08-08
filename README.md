@@ -6,7 +6,7 @@
 ![Records](https://img.shields.io/badge/Records-8%2C523-brightgreen?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)
 
-An end-to-end retail analytics project analyzing **8,523 grocery sales records** from Blinkit - India's last-minute delivery app — to uncover sales trends across product categories, outlet types, locations, and customer ratings. The project combines **MySQL** for data cleaning and querying with **Power BI** for interactive visualization.
+An end-to-end retail analytics project analyzing **8,523 grocery sales records** from Blinkit - India's last-minute delivery app - to uncover sales trends across product categories, outlet types, locations, and customer ratings. The project combines **MySQL** for data cleaning and querying with **Power BI** for interactive visualization.
 
 ![Dashboard Preview](Dashboard_Preview.png)
 
