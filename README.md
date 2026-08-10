@@ -107,6 +107,7 @@ This project is licensed under the [MIT License](LICENSE) — feel free to use, 
 ## 👤 Author
 
 **Chowdri Furkhan**
+
 - GitHub: [Chowdri-Furkhan07](https://github.com/Chowdri-Furkhan07)
 - LinkedIn: [linkedin.com/in/chowdri-furkhan](https://linkedin.com/in/chowdri-furkhan/)
 
