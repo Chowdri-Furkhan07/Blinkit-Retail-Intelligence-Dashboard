@@ -58,7 +58,7 @@ Performed in `Blinkit_analysis.sql`:
 
 **Visual Breakdowns**
 - **Sales by Fat Content** - Low Fat vs. Regular, overall and by outlet tier
-- **Sales by Item Type** — Fruits & Vegetables and Snack Foods lead at $0.18M each
+- **Sales by Item Type** - Fruits & Vegetables and Snack Foods lead at $0.18M each
 - **Outlet Establishment Trend** — sales performance by the year each outlet opened (2012–2022)
 - **Outlet Size Distribution** — Small, Medium, and High outlets by sales contribution
 - **Outlet Location Type** — Tier 1, Tier 2, and Tier 3 sales comparison
