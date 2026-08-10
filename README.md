@@ -66,7 +66,7 @@ Performed in `Blinkit_analysis.sql`:
 
 **Interactivity**
 - Filter panel for **Outlet Location Type**, **Outlet Size**, and **Item Type**
-- Fully cross-filtered visuals — clicking any chart updates the entire report page
+- Fully cross-filtered visuals - clicking any chart updates the entire report page
 
 ---
 
