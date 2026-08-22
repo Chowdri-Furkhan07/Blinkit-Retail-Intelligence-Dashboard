@@ -100,7 +100,7 @@ Performed in `Blinkit_analysis.sql`:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and share with attribution.
+This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and share with attribution.
 
 ---
 
