@@ -61,7 +61,7 @@ Performed in `Blinkit_analysis.sql`:
 - **Sales by Item Type** - Fruits & Vegetables and Snack Foods lead at $0.18M each
 - **Outlet Establishment Trend** - sales performance by the year each outlet opened (2012–2022)
 - **Outlet Size Distribution** - Small, Medium, and High outlets by sales contribution
-- **Outlet Location Type** — Tier 1, Tier 2, and Tier 3 sales comparison
+- **Outlet Location Type** - Tier 1, Tier 2, and Tier 3 sales comparison
 - **Outlet Type Summary Table** — Total Sales, No. of Items, Avg Sales, Avg Rating, and Item Visibility for Grocery Store, Supermarket Type 1, Type 2, and Type 3
 
 **Interactivity**
